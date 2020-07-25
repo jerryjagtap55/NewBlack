@@ -11032,7 +11032,7 @@ h5,
 }
 
 .blog-entry .text .heading a {
-    color: #000000;
+    color: #ffffff;
 }
 
 .blog-entry .text .heading a:hover,
@@ -11638,7 +11638,6 @@ textarea.form-control {
 }
 
 .contact-section .contact-info .con {
-    background: #ffffff;
     width: 100%;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -11647,12 +11646,12 @@ textarea.form-control {
 }
 
 .contact-section .contact-info p a {
-    color: #1a1a1a;
+    color: #ececec;
 }
 
 .contact-section .contact-info p span {
     font-weight: 500;
-    color: #000000;
+    color: #ffffff;
 }
 
 .block-9 .form-control {
